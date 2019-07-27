@@ -181,7 +181,7 @@ Or simply use `>` as below:
 
 ```
 
-The pound sign `#` above is used for comments in PowerShell.
+The hash symbol `#` above is used for comments in PowerShell.
 
 1. `type -> Get-Content`: Gets the content of the item at the specified location.
 
